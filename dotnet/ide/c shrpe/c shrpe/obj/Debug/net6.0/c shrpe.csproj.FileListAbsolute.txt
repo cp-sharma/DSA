@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Chandraprakash Sharma\Projects\dotnet\ide\c shrpe\c shrpe\bin\Debug\net6.0\c shrpe.exe
+C:\Users\HP\Documents\Chandraprakash Sharma\Projects\dotnet\ide\c shrpe\c shrpe\bin\Debug\net6.0\c shrpe.deps.json
+C:\Users\HP\Documents\Chandraprakash Sharma\Projects\dotnet\ide\c shrpe\c shrpe\bin\Debug\net6.0\c shrpe.runtimeconfig.json
+C:\Users\HP\Documents\Chandraprakash Sharma\Projects\dotnet\ide\c shrpe\c shrpe\bin\Debug\net6.0\c shrpe.dll
+C:\Users\HP\Documents\Chandraprakash Sharma\Projects\dotnet\ide\c shrpe\c shrpe\bin\Debug\net6.0\c shrpe.pdb
+C:\Users\HP\Documents\Chandraprakash Sharma\Projects\dotnet\ide\c shrpe\c shrpe\obj\Debug\net6.0\c shrpe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Chandraprakash Sharma\Projects\dotnet\ide\c shrpe\c shrpe\obj\Debug\net6.0\c shrpe.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Chandraprakash Sharma\Projects\dotnet\ide\c shrpe\c shrpe\obj\Debug\net6.0\c shrpe.AssemblyInfo.cs
+C:\Users\HP\Documents\Chandraprakash Sharma\Projects\dotnet\ide\c shrpe\c shrpe\obj\Debug\net6.0\c shrpe.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Chandraprakash Sharma\Projects\dotnet\ide\c shrpe\c shrpe\obj\Debug\net6.0\c shrpe.dll
+C:\Users\HP\Documents\Chandraprakash Sharma\Projects\dotnet\ide\c shrpe\c shrpe\obj\Debug\net6.0\refint\c shrpe.dll
+C:\Users\HP\Documents\Chandraprakash Sharma\Projects\dotnet\ide\c shrpe\c shrpe\obj\Debug\net6.0\c shrpe.pdb
+C:\Users\HP\Documents\Chandraprakash Sharma\Projects\dotnet\ide\c shrpe\c shrpe\obj\Debug\net6.0\c shrpe.genruntimeconfig.cache
+C:\Users\HP\Documents\Chandraprakash Sharma\Projects\dotnet\ide\c shrpe\c shrpe\obj\Debug\net6.0\ref\c shrpe.dll
